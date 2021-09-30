@@ -1,0 +1,34 @@
+    body {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url(image/todo4.jpg);
+        background-size: cover;
+    }
+    
+    #test {
+        box-shadow: none;
+    }
+    
+    .content {
+        border-radius: 5px;
+    }
+    
+    #modif-card {
+        background-color: tan;
+    }
+    
+    #button-addon2 {
+        box-shadow: none;
+    }
+    
+    .line {
+        text-decoration: line-through;
+    }
+    
+    .done {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
